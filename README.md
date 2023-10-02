@@ -30,5 +30,7 @@ Para personalizar o comportamento ou a aparência, você pode modificar o arquiv
 
 Autor Deni Trepak
 
-Licença
-Este projeto está licenciado sob a Licença [inserir nome da licença]. Consulte o arquivo LICENSE.md para obter detalhes.
+## Licença
+
+Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
+

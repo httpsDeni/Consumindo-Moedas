@@ -1,0 +1,49 @@
+/* Reset de estilos para garantir uma base consistente */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Estilo para o corpo da página */
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+  
+  /* Estilo para os cabeçalhos (h1 e h3) */
+  h1, h3 {
+    margin-top: 20px;
+    font-weight: bold;
+  }
+  
+  /* Estilo para as seções de cotação */
+  span {
+    font-size: 18px;
+    margin: 5px;
+  }
+  
+  /* Estilo para os valores de cotação */
+  span#usdbrl, span#eurusd {
+    color: #007bff; /* Azul */
+  }
+  
+  /* Estilo para os valores de percentual de mudança */
+  span#pctChange, span#pctChangeEur {
+    color: #28a745; /* Verde */
+  }
+  
+  /* Estilo para os valores de Maior Alta */
+  span#high, span#highEur {
+    color: #dc3545; /* Vermelho */
+  }
+  
+  /* Estilo para os valores de Maior Baixa */
+  span#low, span#lowEur {
+    color: #ffc107; /* Amarelo */
+  }
+  

@@ -1,6 +1,6 @@
 Este é um exemplo de página HTML que consome uma API para obter informações de cotação de moedas em tempo real. A página exibe as cotações para as moedas USD-BRL (Dólar Americano para Real Brasileiro) e EUR-BRL (Euro para Real Brasileiro).
 
-Como Funciona
+<h1>Como Funciona</h1>
 
 A página HTML contém elementos HTML para exibir as informações da cotação.
 As cotações são obtidas por meio de uma requisição à API usando JavaScript.
